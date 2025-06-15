@@ -1,2 +1,2 @@
 # Fisheye State Routing on Omnet++6.1
-Code, extensive analyze and presentation of FSR on Omnet.
+Code, extensive analysis and presentation of a implementation of FSR on Omnet.
