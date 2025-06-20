@@ -1,0 +1,12 @@
+*
+!.gitignore
+!Makefile
+!*.ned
+!*.cc
+!*.h
+!*.ini
+!*.py
+!*.pdf
+!statistics
+!reports
+!presentation

@@ -1,1 +1,1 @@
-# Video Link and .ppt is under here.
+I could not make a video or presentation in time :(
